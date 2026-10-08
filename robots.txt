@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-4xkd8x.deepnode.store/sitemap.xml
